@@ -8,4 +8,4 @@ Bu kadar bilgi yeter
  <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-[![Discord Presence](https://cdn.discordapp.com/attachments/830862015999508512/860867114743496704/unknown.png)](https://discord.com/users/341592492224806914)
+[![Discord Presence](https://cdn.discordapp.com/attachments/762025846185263116/860897375644024862/s.png)](https://discord.com/users/341592492224806914)
