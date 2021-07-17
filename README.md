@@ -1,4 +1,4 @@
-xd
+
 Bu kadar bilgi yeter 
 
 
