@@ -11,4 +11,27 @@ Bu kadar bilgi yeter
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341592492224806914)](https://discord.com/users/341592492224806914)
+
+
+package main
+
+import (
+	"fmt"
+
+	"github.com/barbarbar338/go-lanyard"
+)
+
+func main() {
+	//                              User ID here 👇
+	res, err := lanyard.FetchUser("341592492224806914")
+
+	// Handle error
+	if err != nil {
+		// ...
+		panic(err)
+	}
+
+	// Handle presence data here
+	fmt.Println(res.Data.DiscordStatus)
+}
                            
