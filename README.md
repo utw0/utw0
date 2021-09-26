@@ -1,7 +1,7 @@
 
 Bu kadar bilgi yeter 
 
-
+![Logo](https://media.discordapp.net/attachments/608711485849337856/837331586260271144/image0.gif) 
 <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
 <p align="left">
      <a href="https://www.instagram.com/u.kosemm/?hl=tr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
