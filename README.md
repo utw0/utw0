@@ -17,3 +17,4 @@ Bu kadar bilgi yeter
 
 
               
+![Logo](https://cdn.discordapp.com/attachments/878728200354672661/891639207687258143/8a052ec3ca3498b29cc4501540c1b6b0.png) 
