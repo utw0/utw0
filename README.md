@@ -1,16 +1,6 @@
 # 👋 Hi! I'm LuhuX <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
 
-```javascript
-const LuhuX = { 
- 	Names: ['LuhuX', 'udwo', 'utwo'],
-   	Languages: ['Javascript'],
-   	Tools: ['VSCode', 'Node', 'DiscordJS'],
-   	hobbies:[
-       Games: ['Valorant','CS:GO'],
-       sex: true
-   ],  
- } 
-```
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341592492224806914)](https://discord.com/users/341592492224806914)
 
