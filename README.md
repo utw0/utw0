@@ -15,6 +15,6 @@
 <img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  
 </div>
-<div style="https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif"></div>
+
 ![Logo](https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif)
 
