@@ -2,7 +2,11 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341592492224806914)](https://discord.com/users/341592492224806914)
+<div align="center">
+   <a href="https://discord.com/users/341592492224806914" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/341592492224806914?bg=111111">
+   </a>
+</div>
 
 
 
