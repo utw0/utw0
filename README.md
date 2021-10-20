@@ -16,5 +16,5 @@
  
 </div>
 
-![Logo](https://media.discordapp.net/attachments/857714045251878972/863787669779644446/67937cf24171dfc59831a4ed246cb86f.gif) 
+![Logo](https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif) 
 
