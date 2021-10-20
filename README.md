@@ -1,4 +1,4 @@
-#https://cdn.discordapp.com/emojis/856673235483230238.gif?size=96 Hi! I'm LuhuX <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
+# Hi! I'm LuhuX <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
 
 
 
