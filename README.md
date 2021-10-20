@@ -20,7 +20,7 @@
  
 </div>
 
-![Logo](https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif)
+
 
 <div align="center">
     <img src="https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif">
