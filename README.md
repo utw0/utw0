@@ -16,5 +16,5 @@
  
 </div>
 
-   ![Logo](https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif) 
+<div style= ![Logo](https://media.discordapp.net/attachments/857714045251878972/899658329415110696/tm.gif) </div>
 
