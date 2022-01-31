@@ -22,7 +22,7 @@
 
 
 
-https://media.discordapp.net/attachments/838102521889161226/937821298371989534/a_0c25d086a71de41b59d94ae7e443b2fe.gif
+
 
 
 
