@@ -21,7 +21,7 @@
 </div>
 
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/841542319085191238/937822136377171988/kendi_sunucu_afisim.jpg" width="800" height="200" />
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/841542319085191238/937822136377171988/kendi_sunucu_afisim.jpg" width="500" height="500" />
 
 
 
