@@ -17,9 +17,8 @@
 <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms" target"blank_">
 <img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- 
 </div>
-
-
-
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/932349752425742396/932644671409225798/Xresiz_Banner_Pack_28.gif"/> ****
+</div>
 
