@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 <div align="center">
- <img alt="GIF" src="https://media.discordapp.net/attachments/735465066110910526/808894038559817799/a_e72e2d5a1dea2edea6a298743fcd5b00.gif"/> 
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/935850586342055936/938019633468936242/3234.gif"/> 
 </div>
 
