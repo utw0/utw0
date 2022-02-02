@@ -1,22 +1,5 @@
 # benluhuxcanim <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
-```
-class luhux{
-  constructor(options) {
-    this.name = "luhux",
-    this.surname = "sex",
-    this.hometown = "Norway",
-    this.birthday = "22",
-    this.birthmonth = "January",
-    this.birthyear = "2004",
-    this.age = "18",
-    this.height = "1.75",
-    this.weight = "70",
-    this.type = "human",
-    this.job = "programmer",
-    this.sex = "male"
-  }
-}
-```
+
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/935850586342055936/938019633468936242/3234.gif"/> 
 </div>
