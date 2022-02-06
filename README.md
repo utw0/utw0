@@ -1,7 +1,7 @@
 # benluhuxcanim <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
 
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/935850586342055936/938019633468936242/3234.gif"/> 
+ <img alt="GIF" src="https://media.discordapp.net/attachments/857714045251878972/927320640237740162/giphy_2.gif"/> 
 </div>
 
 
