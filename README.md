@@ -20,5 +20,9 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/341592492224806914?bg=111111">
    </a>
 </div>
-
+<div align="center">
+   <a href="https://discord.com/users/927341915169521675" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/341592492224806914?bg=111111">
+   </a>
+</div>
 
