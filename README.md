@@ -41,3 +41,5 @@ export default luhux
 <div align="center">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=utw0&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
 </div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" img src="https://github-profile-trophy.vercel.app/?username=utw0&theme=onestar&no-frame=true" alt="utw0" /></a> </p>
