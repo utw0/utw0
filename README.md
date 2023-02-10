@@ -27,6 +27,7 @@ export default luhux
 
 <div align="center">
  <a href="https://discord.com/users/341592492224806914" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/341592492224806914?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
+<br>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=aoj0e0b3twag42g0h8nxqm4ms&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=49c846&bar_color_cover=false"/>
 </div>
 
