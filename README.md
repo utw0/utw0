@@ -5,7 +5,8 @@
 <div align="center">
    <img width="15%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
 </div>
-<a href="https://top.gg/bot/927341915169521675" target"blank_"><img src="https://top.gg/api/widget/927341915169521675.svg"></a>
+<a href="https://top.gg/bot/927341915169521675" target"blank_"><img src="https://top.gg/api/widget/927341915169521675"></a>
+
 #
 
 ![luhuxsex](https://cdn.discordapp.com/attachments/1065215272530751529/1069342816163090503/aswfwefpng.png)
