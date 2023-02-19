@@ -5,7 +5,7 @@
 <div align="center">
    <img width="15%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
 </div>
-<a href="https://top.gg/bot/927341915169521675" target"blank_"><img src="https://top.gg/api/widget/927341915169521675"></a>
+
 
 #
 
