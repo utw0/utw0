@@ -9,7 +9,7 @@
 
 #
 
-![luhuxsex](https://cdn.discordapp.com/attachments/1065215272530751529/1069342816163090503/aswfwefpng.png)
+![luhuxsex](https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png)
 
 ``` 
 class luhux {
