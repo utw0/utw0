@@ -18,7 +18,6 @@ class luhux {
         this.age = "19",
         this.sex = "man",
         this.length = "1,79",
-        this.job = "student",
     };
 }
 
