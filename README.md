@@ -26,7 +26,7 @@ export default luhux
 #
 
 <div align="center">
- <a href="https://discord.com/users/341592492224806914" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/341592492224806914?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
+ <img src="https://luppufy.onrender.com/member/341592492224806914">
 </div>
 
 
