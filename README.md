@@ -26,7 +26,7 @@ export default luhux
 #
 
 <div align="center">
- <img src="https://luppufy.onrender.com/member/341592492224806914">
+<img src="https://luppufy-api.onrender.com/member/341592492224806914">
 </div>
 
 
