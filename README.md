@@ -24,7 +24,7 @@ class luhux {
 export default luhux
 ```   
 #
-<img src="https://count.getloli.com/get/@:utw0" alt=":utw0" />
+
 <div align="center">
 <img src="https://luppufy-api.onrender.com/member/341592492224806914">
 </div>
