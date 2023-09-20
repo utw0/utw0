@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
 </div>
 
 <img src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
-<img width="50%" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
 
 #
 
