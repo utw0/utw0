@@ -7,9 +7,6 @@
 </div>
 
 
-#
-
-
 <img width="50%" align="right" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
 <img width="50%"  align="left" src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
 
