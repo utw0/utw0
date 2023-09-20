@@ -10,20 +10,9 @@
 #
 
 
-<img width="50%" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
-<img width="50%" src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
-``` 
-class luhux {
-    constructor(options) {
-        this.name = "Utku",
-        this.age = "19",
-        this.sex = "man",
-        this.length = "1,79",
-    };
-}
+<img width="50%" align="right" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
+<img width="50%"  align="left" src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
 
-export default luhux
-```   
 #
 
 <img width="50%" align="right" src="https://lanyard.kyrie25.me/api/341592492224806914?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
