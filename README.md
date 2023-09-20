@@ -5,8 +5,10 @@
 <div align="center">
    <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
 </div>
- <a href="https://instagram.com/utkukosemm" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<div align="center">
+    <a href="https://instagram.com/utkukosemm" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
 <img src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
 
 #
