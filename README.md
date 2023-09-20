@@ -7,9 +7,25 @@
 </div>
 
 
-<img width="50%" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
-<img width="50%"  src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
+<head>
+    <title>İki Resim Yan Yana</title>
+    <style>
+        .resim-container {
+            display: flex; /* Flexbox kullanarak içerikleri yatayda hizalama */
+        }
 
+        .resim {
+            width: 50%; /* İki resmi eşit genişlikte yapmak için */
+        }
+    </style>
+</head>
+<body>
+    <h1>İki Resim Yan Yana</h1>
+    <div class="resim-container">
+        <img class="resim" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
+        <img class="resim" src="https://cdn.discordapp.com/attachments/948177337957122078/1086961302267772938/luhux.png">
+    </div>
+</body>
 #
 
 <img width="50%" align="right" src="https://lanyard.kyrie25.me/api/341592492224806914?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
