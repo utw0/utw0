@@ -28,9 +28,12 @@ module.exports = luhux;
 
 <div align="center">
   <img src="https://lanyard.kyrie25.me/api/341592492224806914?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
-  <img href="https://instagram.com/utkukosemm" src="https://cdn.discordapp.com/attachments/1087030211813593190/1155246289487941632/D7aaXD2BHF5AAAAAElFTkSuQmCC.png" width="45%" style="vertical-align: top;">
+  <a href="https://instagram.com/utkukosemm">
+    <img src="https://cdn.discordapp.com/attachments/1087030211813593190/1155246289487941632/D7aaXD2BHF5AAAAAElFTkSuQmCC.png" width="45%" style="vertical-align: top;">
+  </a>
 </div>
-<div align="left" width="100%">
+<div align="left">
+</div>
 
 ## Languages and Tools:
 
