@@ -11,7 +11,7 @@
   <a href="https://discord.gg/luppux" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 <img src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
-
+https://cdn.discordapp.com/attachments/1087030211813593190/1155246289487941632/D7aaXD2BHF5AAAAAElFTkSuQmCC.png
 ```js
 class luhux {
 constructor(options) {
