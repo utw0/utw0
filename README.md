@@ -11,7 +11,7 @@
   <a href="https://discord.gg/luppux" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 <img src="https://cdn.discordapp.com/attachments/1129868817791725757/1153966162380591125/Luppux_V1.png">
-https://cdn.discordapp.com/attachments/1087030211813593190/1155246289487941632/D7aaXD2BHF5AAAAAElFTkSuQmCC.png
+
 ```js
 class luhux {
 constructor(options) {
@@ -27,6 +27,7 @@ module.exports = luhux;
 #
 
 <img width="50%" align="right" src="https://lanyard.kyrie25.me/api/341592492224806914?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
+<img src="https://cdn.discordapp.com/attachments/1087030211813593190/1155246289487941632/D7aaXD2BHF5AAAAAElFTkSuQmCC.png">
 <div align="left" width="100%">
 
 ## Languages and Tools:
