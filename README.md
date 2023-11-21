@@ -16,7 +16,7 @@
 class luhux {
 constructor(options) {
 this.name = "Utku",
-this.age = 19,
+this.age = 20,
 this.insta = "utkukosemm",
 this.discord = "luhux",
 this.discordId = "341592492224806914"
