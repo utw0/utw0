@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Slm!;Ben+luhux">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1337;luhux1337;Claire">
 </div>
 
 <div align="center">
