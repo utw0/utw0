@@ -24,9 +24,8 @@ this.discordId = "341592492224806914"
 module.exports = luhux;
 ```
 #
-[![Discord Presence](https://lanyard.cnrad.dev/api/341592492224806914?showDisplayName=true&theme=dark)](https://discord.com/users/341592492224806914)
 <div align="center">
-  <img src="[https://lanyard-profile-readme.vercel.app/api/341592492224806914?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...](https://lanyard.cnrad.dev/api/341592492224806914?showDisplayName=true&theme=dark)" width="45%" style="vertical-align: top;">
+  <img src="[https://lanyard.cnrad.dev/api/341592492224806914?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;">
   <a href="https://instagram.com/utkukosemm">
 
   </a>
