@@ -26,7 +26,6 @@ module.exports = luhux;
 #
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/341592492224806914?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;">
-<img src="https://lanyard.cnrad.dev/api/114983651619504130?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;">
 
   <a href="https://instagram.com/utkukosemm">
 
