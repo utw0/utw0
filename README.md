@@ -25,7 +25,13 @@ module.exports = luhux;
 ```
 #
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/341592492224806914?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;">
+ <a href="https://discord.com/users/341592492224806914">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://localhost:3000/341592492224806914?accent=030303&accent2=000000" />
+    <source media="(prefers-color-scheme: light)" srcset="http://localhost:3000/341592492224806914?theme=light&accent=030303&accent2=000000" />
+    <img src="http://localhost:3000/341592492224806914?accent=030303&accent2=000000" alt="Discord" />
+  </picture>
+</a>
 
   <a href="https://instagram.com/utkukosemm">
 
