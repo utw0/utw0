@@ -27,9 +27,9 @@ module.exports = luhux;
 <div align="center">
  <a href="https://discord.com/users/341592492224806914">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://localhost:3000/341592492224806914?accent=030303&accent2=000000" />
-    <source media="(prefers-color-scheme: light)" srcset="http://localhost:3000/341592492224806914?theme=light&accent=030303&accent2=000000" />
-    <img src="http://localhost:3000/341592492224806914?accent=030303&accent2=000000" alt="Discord" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://luhuxyard.vercel.app/341592492224806914?accent=000000&accent2=000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://luhuxyard.vercel.app/341592492224806914?accent=000000&accent2=000000" />
+    <img src="https://luhuxyard.vercel.app/341592492224806914?accent=000000&accent2=000000" alt="Discord" />
   </picture>
 </a>
 
