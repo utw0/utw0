@@ -2,9 +2,13 @@
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1337;luhux1337;:D">
 </div>
 
-<div align="center">
-   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
-</div>
+<a href="https://github.com/utw0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://luhuxprof.vercel.app/utw0?accent=000000&accent2=000000&base=144550&hideChart=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/utw0?theme=light&accent=000000&accent2=000000&base=144550&hideChart=1" />
+    <img src="https://luhuxprof.vercel.app/utw0?accent=000000&accent2=000000&base=144550&hideChart=1" alt="Profil görüntülenme" />
+  </picture>
+</a>
 <div align="center">
     <a href="https://instagram.com/utkukosemm" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
