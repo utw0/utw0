@@ -26,7 +26,7 @@
 
 <br />
 
-<!-- ───────────── HAKKIMDA + DISCORD ───────────── -->
+<!-- ───────────── HAKKIMDA ───────────── -->
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -45,11 +45,6 @@ class Luhux {
 
 module.exports = Luhux;
 ```
-
-<!-- Bu satırları kendine göre düzenleyebilirsin -->
-- 🤖 Discord botları geliştiriyorum (discord.js v14)
-- 🎮 Unity ve Unreal ile oyun projeleri
-- 💬 Bana Discord'dan ulaş: **luhux**
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -73,14 +68,26 @@ module.exports = Luhux;
 <!-- ───────────── TEKNOLOJİLER ───────────── -->
 <h3 align="center">・ Languages & Tools</h3>
 
+<p align="center"><sub><b>LANGUAGES</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,react,vue&theme=dark" alt="Diller ve frameworkler" /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mongodb,mysql,git,linux,heroku,unity,unreal&theme=dark" alt="Araçlar" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" alt="Diller" />
 </p>
 
-<details>
-<summary align="center"><b>Diğer araçlar</b></summary>
-<br />
+<p align="center"><sub><b>FRONTEND</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center"><sub><b>BACKEND · DATABASE · DEVOPS</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,git,linux,heroku&theme=dark" alt="Backend ve araçlar" />
+</p>
+
+<p align="center"><sub><b>GAME DEV</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Oyun geliştirme" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Vuetify-0d1117?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify" />
   <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Chart.js" />
@@ -89,39 +96,6 @@ module.exports = Luhux;
   <img src="https://img.shields.io/badge/Kibana-0d1117?style=flat-square&logo=kibana&logoColor=E8478B" alt="Kibana" />
   <img src="https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle" />
 </p>
-</details>
-
-<br />
-
-<!-- ───────────── ÖNE ÇIKAN PROJELER ───────────── -->
-<h3 align="center">・ Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/utw0/V14-TASARIM-BOT">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=V14-TASARIM-BOT&theme=light&accent=000000&accent2=71717a" />
-      <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=V14-TASARIM-BOT&theme=amoled&accent=ffffff&accent2=71717a" alt="V14-TASARIM-BOT" />
-    </picture>
-  </a>
-  <a href="https://github.com/utw0/v14-ozel-oda-sistemi">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=v14-ozel-oda-sistemi&theme=light&accent=000000&accent2=71717a" />
-      <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=v14-ozel-oda-sistemi&theme=amoled&accent=ffffff&accent2=71717a" alt="v14-ozel-oda-sistemi" />
-    </picture>
-  </a>
-  <a href="https://github.com/utw0/Chat-Guard-v14">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=Chat-Guard-v14&theme=light&accent=000000&accent2=71717a" />
-      <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=Chat-Guard-v14&theme=amoled&accent=ffffff&accent2=71717a" alt="Chat-Guard-v14" />
-    </picture>
-  </a>
-  <a href="https://github.com/utw0/v14-register-bot">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=v14-register-bot&theme=light&accent=000000&accent2=71717a" />
-      <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=repo&repo=v14-register-bot&theme=amoled&accent=ffffff&accent2=71717a" alt="v14-register-bot" />
-    </picture>
-  </a>
-</p>
 
 <br />
 
@@ -129,71 +103,14 @@ module.exports = Luhux;
 <h3 align="center">・ GitHub Stats</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=stats&theme=light&accent=000000&accent2=71717a" />
-    <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=stats&theme=amoled&accent=ffffff&accent2=71717a" alt="GitHub istatistikleri" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://luhuxprof.vercel.app/api/stats?username=utw0&type=langs&theme=light&accent=000000&accent2=71717a" />
-    <img width="49%" src="https://luhuxprof.vercel.app/api/stats?username=utw0&type=langs&theme=amoled&accent=ffffff&accent2=71717a" alt="En çok kullanılan diller" />
-  </picture>
-</p>
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=utw0&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&stroke=3f3f46&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=71717a" alt="GitHub seri" />
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/utw0?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=00000000&Ring=ffffff&Title=ffffff&Background=00000000" alt="GitHub istatistikleri" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=utw0&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&stroke=3f3f46&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=71717a" alt="GitHub seri" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="100%" src="https://github-trophies.vercel.app/?username=utw0&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Kupalar" />
   </a>
-</p>
-
-<!-- 3D katkı grafiği: .github/workflows/profile-3d.yml her gün günceller -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D katkı grafiği" />
-  </picture>
-</p>
-
-<br />
-
-<!-- ───────────── KODLAMA + AKTİVİTE ───────────── -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### ・ Bu hafta kodlama
-
-<!-- waka.yml burayı WakaTime verisiyle doldurur -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</td>
-<td width="50%" valign="top">
-
-### ・ Son aktiviteler
-
-<!-- activity.yml burayı son GitHub hareketlerinle doldurur -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ───────────── YILAN ───────────── -->
-<!-- snake.yml günde 2 kez günceller -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utw0/utw0/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utw0/utw0/output/snake-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/utw0/utw0/output/snake-dark.svg" alt="Katkı yılanı" />
-  </picture>
 </p>
 
 <!-- ───────────── ALT BANNER ───────────── -->
